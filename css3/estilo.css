@@ -1,0 +1,15 @@
+@charset "utp-8";
+body{
+    background-color: gold;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.videos{
+width:780px;
+height: 440px;
+padding: 10px;
+margin-left: 250px;
+background-color: honeydew;
+
+}
